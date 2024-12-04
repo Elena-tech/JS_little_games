@@ -1,4 +1,4 @@
-Here are some extra fun exercises to inspire your students and make their JavaScript learning experience even more exciting:
+
 
 ---
 
